@@ -1,0 +1,206 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;   
+}
+
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Arial, sans-serif;
+}
+
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+}
+
+.logo-text{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Arial, sans-serif;
+    margin-left: 170px;
+}
+
+.login-label{
+    color: #fff;
+    font-size: 11px;
+}
+
+.login-controls{
+    margin-left: 115px;    
+}
+
+.forgotten{
+    color: #fff;
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+    cursor: pointer;
+}
+
+.forgotten:hover{
+    text-decoration: underline;
+}
+
+.sub-btn{
+    background: #4267b2;
+    color: #fff;
+    height: 21px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+
+.sub-btn:hover{
+    background:#9cb4d8;
+}
+
+.left-section{
+    width: 50%;
+    float: left;
+    background: linear-gradient(rgb(252, 244, 244),#cbd9ff);
+    height: 600px;
+    padding-left: 134px;
+    padding-top: 52px;
+}
+
+.right-section{
+    width: 41%;
+    float: left;
+    background: linear-gradient(rgb(252, 244, 244),#cbd9ff);
+    height: 652px;
+}
+
+.para{
+    font-weight: bold;
+    font-size: 21px;
+
+}
+
+.image{
+    width: 581px;
+}
+
+.t1{
+    width: 190px;
+    height: 27px;
+    color: rgb(87, 86, 86);
+    margin: 5px;
+    font-size:medium;
+    cursor: pointer;
+}
+
+.t2{
+    color: rgb(87, 86, 86);
+    width: 190px;
+    height: 27px;
+    font-size:medium;
+    cursor: pointer;
+}
+
+.address{
+    width: 66%;
+    height: 27px;
+    margin: 5px;
+    color: rgb(87, 86, 86);
+    font-size:medium;
+    cursor: pointer;
+}
+
+.newPass{
+    color: rgb(87, 86, 86);
+    padding-top: 5px;
+    width: 66%;
+    height: 27px;
+    margin: 5px;
+    font-size:medium;
+    cursor: pointer;
+}
+
+.L-bday{
+    padding-top: 10px;
+    color: rgb(87, 86, 86);
+    padding-bottom: 10px;
+    margin: 5px;
+}
+
+.bday{
+    margin: 5px;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.L-gender{
+    margin: 5px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    color: rgb(87, 86, 86);
+}
+
+.rdBtn{
+    margin: 5px;
+    color:black;
+    padding-bottom: 20px;
+}
+
+.s-btn{
+    margin: 5px;
+    border-radius: 8px;
+    background-color: green;
+    padding-top: 0px;
+    width: 200px;
+    height: 40px;
+    color:white;
+    font-size: large;
+    border: none;
+    cursor: pointer;
+}
+
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color: #fff;
+}
+
+h1{
+    padding-top: 40px;
+    margin: 5px;
+    padding-bottom: 10px;
+}
+
+h4{
+    padding-bottom: 10px;
+    margin: 5px;
+}
+
+.s-btn:hover{
+    background:#5a9f54;
+}
+
+.head-t1{
+    cursor: pointer;
+}
+
+.head-t2{
+    cursor: pointer;
+}
+
+#Male{
+    cursor: pointer;
+}
+
+#Female{
+    cursor: pointer;
+}
+
+#Others{
+    cursor: pointer;
+}

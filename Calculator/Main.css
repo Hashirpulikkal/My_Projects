@@ -1,0 +1,38 @@
+.calc{
+    width: 400px;
+    height: 600px;
+    background: rgb(37, 36, 36);
+    margin: auto;
+}
+
+#screen{
+    width: 80%;
+    height: 80px;
+    margin-left: 35px;
+    margin-top: 30px;
+    pointer-events: none;
+    font-size:x-large;
+    text-align: right;
+    background:silver;
+}
+
+.btn{
+    width: 60px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 40px;
+    cursor: pointer;
+    background: rgb(37, 36, 36);
+    color: antiquewhite;
+
+}
+
+.spcl-btn{
+    width: 85%;
+    height: 45px;
+    margin-left: 31px;
+    margin-top: 40px;
+    cursor: pointer;
+    color: antiquewhite;
+    background:rgb(76, 35, 35);
+}
